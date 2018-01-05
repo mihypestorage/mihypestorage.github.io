@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515188065902">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515189820028">
   <folder name="css">
     <file name="site_global.css" crc="4109446632"/>
+    <file name="index.css" crc="91772026" ref="index"/>
     <file name="offers.css" crc="3856982580" ref="offers"/>
     <file name="about-us.css" crc="3824029042" ref="about-us"/>
-    <file name="index.css" crc="91772026" ref="index"/>
     <file name="instructions.css" crc="7603387" ref="instructions"/>
   </folder>
   <folder name="fonts">
@@ -12,47 +12,73 @@
     <file name="futurastd-heavyoblique.svg" crc="370908406"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers:about-us:instructions"/>
-    <file name="museutils.js" crc="46400467" ref="index:offers:about-us:instructions"/>
-    <file name="whatinput.js" crc="86476730" ref="index:offers:about-us:instructions"/>
-    <file name="museconfig.js" crc="436936948" ref="index:offers:about-us:instructions"/>
-    <file name="webpro.js" crc="4152390327" ref="index"/>
-    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
-    <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index:offers:about-us:instructions"/>
-    <file name="require.js" crc="85721165" ref="index:offers:about-us:instructions"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>offers:phone>about-us:phone>instructions:index:offers:about-us:instructions"/>
   </folder>
   <folder name="images">
+    <file name="untitled362x362.jpg" crc="3827208502" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="about362x362.jpg" crc="522454528" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="htb362x362.jpg" crc="4272709260" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="zip.jpg" crc="3813497187" seo="true" ref="phone>offers:offers">
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+    </file>
+    <file name="bogos.jpg" crc="231544139" seo="true" ref="phone>offers:offers">
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+    </file>
+    <file name="gboys.jpg" crc="3873780392" seo="true" ref="phone>offers:offers">
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+    </file>
     <file name="untitled.jpg" crc="3942461256" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="about.jpg" crc="3895808396" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="htb.jpg" crc="47234995" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="zip.jpg" crc="3813497187" seo="true" ref="offers">
-      <caption webpage="offers" alt=""/>
-    </file>
-    <file name="bogos.jpg" crc="231544139" seo="true" ref="offers">
-      <caption webpage="offers" alt=""/>
-    </file>
-    <file name="gboys.jpg" crc="3873780392" seo="true" ref="offers">
-      <caption webpage="offers" alt=""/>
-    </file>
-    <file name="hype.jpg" crc="4283980541" seo="true" ref="about-us">
+    <file name="hype.jpg" crc="4283980541" seo="true" ref="about-us:phone>about-us">
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="sup.jpg" crc="4122092547" seo="true" ref="about-us">
+    <file name="sup.jpg" crc="4122092547" seo="true" ref="about-us:phone>about-us">
+      <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4081026844" seo="true" mt="1514958380841" redirect="true"/>
-  <file name="offers.html" crc="443104914" seo="true" mt="1515182806409" redirect="true"/>
-  <file name="about-us.html" crc="4208704574" seo="true" mt="1515188015993" redirect="true"/>
-  <file name="instructions.html" crc="402771611" seo="true" mt="1515185826700" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about-us.css" crc="274411710" ref="phone>about-us"/>
+      <file name="offers.css" crc="246192228" ref="phone>offers"/>
+      <file name="index.css" crc="3861236045" ref="phone>index"/>
+      <file name="instructions.css" crc="4043303046" ref="phone>instructions"/>
+    </folder>
+    <file name="index.html" crc="138663259" seo="true" mt="1515189493125" redirect="true"/>
+    <file name="offers.html" crc="3976623772" seo="true" mt="1515189493123" redirect="true"/>
+    <file name="about-us.html" crc="4243340123" seo="true" mt="1515189792239" redirect="true"/>
+    <file name="instructions.html" crc="3847855155" seo="true" mt="1515189493120" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4264751553" seo="true" mt="1515189493124" redirect="true"/>
+  <file name="offers.html" crc="3944605438" seo="true" mt="1515189493122" redirect="true"/>
+  <file name="about-us.html" crc="4184295668" seo="true" mt="1515189493121" redirect="true"/>
+  <file name="instructions.html" crc="4196502381" seo="true" mt="1515189493119" redirect="true"/>
 </manifest>
