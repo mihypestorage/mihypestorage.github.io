@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515186608569">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515186750862">
   <folder name="css">
     <file name="site_global.css" crc="4109446632"/>
     <file name="offers.css" crc="3856982580" ref="offers"/>
