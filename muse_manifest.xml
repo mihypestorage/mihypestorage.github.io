@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515189820028">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515296996295">
   <folder name="css">
-    <file name="site_global.css" crc="4109446632"/>
-    <file name="index.css" crc="91772026" ref="index"/>
-    <file name="offers.css" crc="3856982580" ref="offers"/>
-    <file name="about-us.css" crc="3824029042" ref="about-us"/>
-    <file name="instructions.css" crc="7603387" ref="instructions"/>
+    <file name="site_global.css" crc="3793186297"/>
+    <file name="offers.css" crc="268285267" ref="offers"/>
+    <file name="about-us.css" crc="5093243" ref="about-us"/>
+    <file name="instructions.css" crc="4278330099" ref="instructions"/>
+    <file name="index.css" crc="4081776502" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-heavyoblique.woff" crc="516199530"/>
@@ -47,6 +47,14 @@
       <caption webpage="offers" alt=""/>
       <caption webpage="offers" alt=""/>
     </file>
+    <file name="hype.jpg" crc="4283980541" seo="true" ref="phone>about-us:about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sup.jpg" crc="4122092547" seo="true" ref="phone>about-us:about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
     <file name="untitled.jpg" crc="3942461256" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -56,29 +64,21 @@
     <file name="htb.jpg" crc="47234995" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hype.jpg" crc="4283980541" seo="true" ref="about-us:phone>about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-    </file>
-    <file name="sup.jpg" crc="4122092547" seo="true" ref="about-us:phone>about-us">
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="about-us.css" crc="274411710" ref="phone>about-us"/>
-      <file name="offers.css" crc="246192228" ref="phone>offers"/>
-      <file name="index.css" crc="3861236045" ref="phone>index"/>
-      <file name="instructions.css" crc="4043303046" ref="phone>instructions"/>
+      <file name="offers.css" crc="3969875005" ref="phone>offers"/>
+      <file name="about-us.css" crc="408145071" ref="phone>about-us"/>
+      <file name="instructions.css" crc="360547510" ref="phone>instructions"/>
+      <file name="index.css" crc="453426524" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="138663259" seo="true" mt="1515189493125" redirect="true"/>
-    <file name="offers.html" crc="3976623772" seo="true" mt="1515189493123" redirect="true"/>
-    <file name="about-us.html" crc="4243340123" seo="true" mt="1515189792239" redirect="true"/>
-    <file name="instructions.html" crc="3847855155" seo="true" mt="1515189493120" redirect="true"/>
+    <file name="index.html" crc="4137363078" seo="true" mt="1515296936627" redirect="true"/>
+    <file name="offers.html" crc="4020533285" seo="true" mt="1515296955508" redirect="true"/>
+    <file name="about-us.html" crc="4259671344" seo="true" mt="1515296960897" redirect="true"/>
+    <file name="instructions.html" crc="4041756241" seo="true" mt="1515296965951" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4264751553" seo="true" mt="1515189493124" redirect="true"/>
-  <file name="offers.html" crc="3944605438" seo="true" mt="1515189493122" redirect="true"/>
-  <file name="about-us.html" crc="4184295668" seo="true" mt="1515189493121" redirect="true"/>
-  <file name="instructions.html" crc="4196502381" seo="true" mt="1515189493119" redirect="true"/>
+  <file name="index.html" crc="4213735595" seo="true" mt="1515189493124" redirect="true"/>
+  <file name="offers.html" crc="418593933" seo="true" mt="1515189493122" redirect="true"/>
+  <file name="about-us.html" crc="4061788646" seo="true" mt="1515189493121" redirect="true"/>
+  <file name="instructions.html" crc="365110877" seo="true" mt="1515189493119" redirect="true"/>
 </manifest>
