@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515297781628">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1515297927460">
   <folder name="css">
     <file name="site_global.css" crc="3793186297"/>
     <file name="offers.css" crc="268285267" ref="offers"/>
@@ -72,7 +72,7 @@
       <file name="instructions.css" crc="360547510" ref="phone>instructions"/>
       <file name="index.css" crc="453426524" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4137363078" seo="true" mt="1515297228825" redirect="true"/>
+    <file name="index.html" crc="100252903" seo="true" mt="1515297917591" redirect="true"/>
     <file name="offers.html" crc="3768315699" seo="true" mt="1515297648379" redirect="true"/>
     <file name="about-us.html" crc="3821301308" seo="true" mt="1515297588328" redirect="true"/>
     <file name="instructions.html" crc="4041756241" seo="true" mt="1515296965951" redirect="true"/>
