@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516245181282">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516246093740">
   <folder name="css">
     <file name="site_global.css" crc="4109446632"/>
-    <file name="supreme.css" crc="31438418" ref="supreme"/>
+    <file name="supreme.css" crc="174522315" ref="supreme"/>
     <file name="index.css" crc="339805590" ref="index"/>
     <file name="instructions.css" crc="7603387" ref="instructions"/>
     <file name="about-us.css" crc="178182453" ref="about-us"/>
-    <file name="other.css" crc="4141960704" ref="other"/>
+    <file name="other.css" crc="210566953" ref="other"/>
     <file name="offers.css" crc="406407662" ref="offers"/>
-    <file name="bape.css" crc="244993708" ref="bape"/>
+    <file name="bape.css" crc="147135772" ref="bape"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-heavyoblique.woff" crc="516199530"/>
@@ -68,24 +68,24 @@
       <file name="instructions.css" crc="4021891920" ref="phone>instructions"/>
       <file name="index.css" crc="4100825923" ref="phone>index"/>
       <file name="about-us.css" crc="212292886" ref="phone>about-us"/>
-      <file name="bape.css" crc="250653461" ref="phone>bape"/>
-      <file name="supreme.css" crc="436688931" ref="phone>supreme"/>
+      <file name="bape.css" crc="4038406020" ref="phone>bape"/>
+      <file name="supreme.css" crc="3922154235" ref="phone>supreme"/>
       <file name="offers.css" crc="194022901" ref="phone>offers"/>
-      <file name="other.css" crc="470626129" ref="phone>other"/>
+      <file name="other.css" crc="4266704109" ref="phone>other"/>
     </folder>
     <file name="index.html" crc="3789738363" seo="true" mt="1516245169783" redirect="true"/>
     <file name="offers.html" crc="164559580" seo="true" mt="1516245160837" redirect="true"/>
     <file name="about-us.html" crc="114207708" seo="true" mt="1516245152345" redirect="true"/>
     <file name="instructions.html" crc="3861150405" seo="true" mt="1516245141901" redirect="true"/>
-    <file name="supreme.html" crc="470281003" seo="true" mt="1516245057684" redirect="true"/>
-    <file name="bape.html" crc="199106530" seo="true" mt="1516245109640" redirect="true"/>
-    <file name="other.html" crc="68124195" seo="true" mt="1516245122496" redirect="true"/>
+    <file name="supreme.html" crc="401731818" seo="true" mt="1516245985736" redirect="true"/>
+    <file name="bape.html" crc="409916555" seo="true" mt="1516246024255" redirect="true"/>
+    <file name="other.html" crc="4058682988" seo="true" mt="1516246036527" redirect="true"/>
   </folder>
   <file name="index.html" crc="4092913955" seo="true" mt="1516242879313" redirect="true"/>
   <file name="offers.html" crc="67258808" seo="true" mt="1516243686214" redirect="true"/>
   <file name="about-us.html" crc="105382441" seo="true" mt="1516244116408" redirect="true"/>
   <file name="instructions.html" crc="4196502381" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="supreme.html" crc="323830171" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="bape.html" crc="3812816770" seo="true" mt="1516244466944" redirect="true"/>
-  <file name="other.html" crc="4244213910" seo="true" mt="1516243870994" redirect="true"/>
+  <file name="supreme.html" crc="4209006325" seo="true" mt="1516246069377" redirect="true"/>
+  <file name="bape.html" crc="3873975576" seo="true" mt="1516246060487" redirect="true"/>
+  <file name="other.html" crc="3876077245" seo="true" mt="1516246049322" redirect="true"/>
 </manifest>
