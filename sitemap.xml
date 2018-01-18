@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mihypestorage.github.io/index.html</loc>
-    <lastmod>2018-01-05</lastmod>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://mihypestorage.github.io/images/untitled.jpg</image:loc>
+      <image:loc>http://mihypestorage.github.io/images/offers.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mihypestorage.github.io/images/about.jpg</image:loc>
@@ -17,24 +17,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mihypestorage.github.io/offers.html</loc>
-    <lastmod>2018-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/offers.html"/>
-    <image:image>
-      <image:loc>http://mihypestorage.github.io/images/zip.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mihypestorage.github.io/images/bogos.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mihypestorage.github.io/images/gboys.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://mihypestorage.github.io/about-us.html</loc>
-    <lastmod>2018-01-06</lastmod>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/about-us.html"/>
@@ -47,9 +31,49 @@
   </url>
   <url>
     <loc>http://mihypestorage.github.io/instructions.html</loc>
-    <lastmod>2018-01-05</lastmod>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/instructions.html"/>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/offers.html</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/offers.html"/>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/supreme.html</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/supreme.html"/>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/bape.html</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/bape.html"/>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/other.html</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/other.html"/>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/assets/shoppingcart.png</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mihypestorage.github.io/assets/checkout.png</loc>
+    <lastmod>2018-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
