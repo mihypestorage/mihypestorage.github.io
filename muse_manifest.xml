@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516244745938">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516245181282">
   <folder name="css">
     <file name="site_global.css" crc="4109446632"/>
-    <file name="instructions.css" crc="4278330099" ref="instructions"/>
-    <file name="supreme.css" crc="3901696966" ref="supreme"/>
-    <file name="bape.css" crc="3808777943" ref="bape"/>
-    <file name="other.css" crc="4246491343" ref="other"/>
-    <file name="index.css" crc="3785849975" ref="index"/>
-    <file name="offers.css" crc="527399598" ref="offers"/>
-    <file name="about-us.css" crc="4253972273" ref="about-us"/>
+    <file name="supreme.css" crc="31438418" ref="supreme"/>
+    <file name="index.css" crc="339805590" ref="index"/>
+    <file name="instructions.css" crc="7603387" ref="instructions"/>
+    <file name="about-us.css" crc="178182453" ref="about-us"/>
+    <file name="other.css" crc="4141960704" ref="other"/>
+    <file name="offers.css" crc="406407662" ref="offers"/>
+    <file name="bape.css" crc="244993708" ref="bape"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-heavyoblique.woff" crc="516199530"/>
@@ -65,27 +65,27 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="bape.css" crc="4201873650" ref="phone>bape"/>
-      <file name="other.css" crc="3979706428" ref="phone>other"/>
-      <file name="index.css" crc="453426524" ref="phone>index"/>
-      <file name="offers.css" crc="4167241305" ref="phone>offers"/>
-      <file name="about-us.css" crc="4029212248" ref="phone>about-us"/>
-      <file name="instructions.css" crc="360547510" ref="phone>instructions"/>
-      <file name="supreme.css" crc="3924452933" ref="phone>supreme"/>
+      <file name="instructions.css" crc="4021891920" ref="phone>instructions"/>
+      <file name="index.css" crc="4100825923" ref="phone>index"/>
+      <file name="about-us.css" crc="212292886" ref="phone>about-us"/>
+      <file name="bape.css" crc="250653461" ref="phone>bape"/>
+      <file name="supreme.css" crc="436688931" ref="phone>supreme"/>
+      <file name="offers.css" crc="194022901" ref="phone>offers"/>
+      <file name="other.css" crc="470626129" ref="phone>other"/>
     </folder>
-    <file name="index.html" crc="196787056" seo="true" mt="1516242752634" redirect="true"/>
-    <file name="offers.html" crc="114013284" seo="true" mt="1516243909874" redirect="true"/>
-    <file name="about-us.html" crc="3995851286" seo="true" mt="1516244149232" redirect="true"/>
-    <file name="instructions.html" crc="87896285" seo="true" mt="1516242752634" redirect="true"/>
-    <file name="supreme.html" crc="465265702" seo="true" mt="1516244409581" redirect="true"/>
-    <file name="bape.html" crc="129266462" seo="true" mt="1516244426310" redirect="true"/>
-    <file name="other.html" crc="4230857165" seo="true" mt="1516244444889" redirect="true"/>
+    <file name="index.html" crc="3789738363" seo="true" mt="1516245169783" redirect="true"/>
+    <file name="offers.html" crc="164559580" seo="true" mt="1516245160837" redirect="true"/>
+    <file name="about-us.html" crc="114207708" seo="true" mt="1516245152345" redirect="true"/>
+    <file name="instructions.html" crc="3861150405" seo="true" mt="1516245141901" redirect="true"/>
+    <file name="supreme.html" crc="470281003" seo="true" mt="1516245057684" redirect="true"/>
+    <file name="bape.html" crc="199106530" seo="true" mt="1516245109640" redirect="true"/>
+    <file name="other.html" crc="68124195" seo="true" mt="1516245122496" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3890356796" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="offers.html" crc="3778078238" seo="true" mt="1516243686214" redirect="true"/>
-  <file name="about-us.html" crc="465082733" seo="true" mt="1516244116408" redirect="true"/>
-  <file name="instructions.html" crc="260863422" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="supreme.html" crc="226640223" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="bape.html" crc="372376727" seo="true" mt="1516244466944" redirect="true"/>
-  <file name="other.html" crc="417396658" seo="true" mt="1516243870994" redirect="true"/>
+  <file name="index.html" crc="4092913955" seo="true" mt="1516242879313" redirect="true"/>
+  <file name="offers.html" crc="67258808" seo="true" mt="1516243686214" redirect="true"/>
+  <file name="about-us.html" crc="105382441" seo="true" mt="1516244116408" redirect="true"/>
+  <file name="instructions.html" crc="4196502381" seo="true" mt="1516242879313" redirect="true"/>
+  <file name="supreme.html" crc="323830171" seo="true" mt="1516242879313" redirect="true"/>
+  <file name="bape.html" crc="3812816770" seo="true" mt="1516244466944" redirect="true"/>
+  <file name="other.html" crc="4244213910" seo="true" mt="1516243870994" redirect="true"/>
 </manifest>
