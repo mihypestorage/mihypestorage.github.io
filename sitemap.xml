@@ -45,24 +45,57 @@
   </url>
   <url>
     <loc>http://mihypestorage.github.io/supreme.html</loc>
-    <lastmod>2018-01-17</lastmod>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/supreme.html"/>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/dcutzippogold.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/dcutzipposilver.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/deckset.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/blimp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/camohat.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/dogshit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/getoboys-crop-u2706.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mihypestorage.github.io/bape.html</loc>
-    <lastmod>2018-01-17</lastmod>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/bape.html"/>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/tiediehoodie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/tiedieshorts.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mihypestorage.github.io/other.html</loc>
-    <lastmod>2018-01-17</lastmod>
+    <lastmod>2018-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mihypestorage.github.io/phone/other.html"/>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/beluga.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mihypestorage.github.io/images/powerphase.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mihypestorage.github.io/assets/shoppingcart.png</loc>

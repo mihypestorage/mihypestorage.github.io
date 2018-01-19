@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516246712493">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mihypestorage.github.io" resolutions="1x" timestamp="1516327990310">
   <folder name="css">
     <file name="site_global.css" crc="4109446632"/>
-    <file name="supreme.css" crc="174522315" ref="supreme"/>
+    <file name="offers.css" crc="3968557134" ref="offers"/>
     <file name="index.css" crc="339805590" ref="index"/>
     <file name="instructions.css" crc="7603387" ref="instructions"/>
     <file name="about-us.css" crc="178182453" ref="about-us"/>
-    <file name="other.css" crc="210566953" ref="other"/>
-    <file name="offers.css" crc="200909869" ref="offers"/>
-    <file name="bape.css" crc="147135772" ref="bape"/>
+    <file name="supreme.css" crc="3872737161" ref="supreme"/>
+    <file name="bape.css" crc="4199359848" ref="bape"/>
+    <file name="other.css" crc="4084938401" ref="other"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-heavyoblique.woff" crc="516199530"/>
@@ -34,14 +34,14 @@
     <file name="require.js" crc="85721165" ref="phone>index:phone>offers:phone>about-us:phone>instructions:phone>supreme:phone>bape:phone>other:index:offers:about-us:instructions:supreme:bape:other"/>
   </folder>
   <folder name="images">
-    <file name="offers362x362.jpg" crc="3823496709" seo="true" ref="phone>index">
+    <file name="offers286x286.jpg" crc="3809091970" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
-    <file name="about362x362.jpg" crc="522454528" seo="true" ref="phone>index">
+    <file name="about286x286.jpg" crc="3872371448" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="htb362x362.jpg" crc="4272709260" seo="true" ref="phone>index">
+    <file name="htb286x286.jpg" crc="469807065" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
@@ -62,30 +62,63 @@
     <file name="htb.jpg" crc="3792665999" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dcutzippogold.jpg" crc="312753424" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="dcutzipposilver.jpg" crc="320260258" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="deckset.jpg" crc="34249973" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="blimp.jpg" crc="190563011" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="camohat.jpg" crc="107794387" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="dogshit.jpg" crc="3797502759" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="getoboys-crop-u2706.jpg" crc="4172407332" seo="true" ref="supreme">
+      <caption webpage="supreme" alt=""/>
+    </file>
+    <file name="tiediehoodie.jpg" crc="3844958283" seo="true" ref="bape">
+      <caption webpage="bape" alt=""/>
+    </file>
+    <file name="tiedieshorts.jpg" crc="307310712" seo="true" ref="bape">
+      <caption webpage="bape" alt=""/>
+    </file>
+    <file name="beluga.jpg" crc="3775038075" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
+    <file name="powerphase.jpg" crc="4237711901" seo="true" ref="other">
+      <caption webpage="other" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="instructions.css" crc="4021891920" ref="phone>instructions"/>
-      <file name="index.css" crc="4100825923" ref="phone>index"/>
-      <file name="about-us.css" crc="212292886" ref="phone>about-us"/>
-      <file name="bape.css" crc="4038406020" ref="phone>bape"/>
-      <file name="supreme.css" crc="3922154235" ref="phone>supreme"/>
-      <file name="offers.css" crc="3896708513" ref="phone>offers"/>
-      <file name="other.css" crc="4266704109" ref="phone>other"/>
+      <file name="about-us.css" crc="217959498" ref="phone>about-us"/>
+      <file name="index.css" crc="256877793" ref="phone>index"/>
+      <file name="offers.css" crc="3895702746" ref="phone>offers"/>
+      <file name="other.css" crc="4106607474" ref="phone>other"/>
+      <file name="bape.css" crc="3839718482" ref="phone>bape"/>
+      <file name="supreme.css" crc="4180361801" ref="phone>supreme"/>
+      <file name="instructions.css" crc="315609997" ref="phone>instructions"/>
     </folder>
-    <file name="index.html" crc="3789738363" seo="true" mt="1516245169783" redirect="true"/>
-    <file name="offers.html" crc="391332231" seo="true" mt="1516246486428" redirect="true"/>
-    <file name="about-us.html" crc="114207708" seo="true" mt="1516245152345" redirect="true"/>
-    <file name="instructions.html" crc="3861150405" seo="true" mt="1516245141901" redirect="true"/>
-    <file name="supreme.html" crc="401731818" seo="true" mt="1516245985736" redirect="true"/>
-    <file name="bape.html" crc="3808190304" seo="true" mt="1516246446395" redirect="true"/>
-    <file name="other.html" crc="317160380" seo="true" mt="1516246426692" redirect="true"/>
+    <file name="index.html" crc="3786528552" seo="true" mt="1516327402562" redirect="true"/>
+    <file name="offers.html" crc="4275372655" seo="true" mt="1516327480830" redirect="true"/>
+    <file name="about-us.html" crc="210507504" seo="true" mt="1516327185312" redirect="true"/>
+    <file name="instructions.html" crc="4142943180" seo="true" mt="1516327242157" redirect="true"/>
+    <file name="supreme.html" crc="4237480135" seo="true" mt="1516327935825" redirect="true"/>
+    <file name="bape.html" crc="146023246" seo="true" mt="1516327729345" redirect="true"/>
+    <file name="other.html" crc="3867314060" seo="true" mt="1516327740018" redirect="true"/>
   </folder>
   <file name="index.html" crc="4092913955" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="offers.html" crc="3898264190" seo="true" mt="1516246616455" redirect="true"/>
+  <file name="offers.html" crc="382838096" seo="true" mt="1516246616455" redirect="true"/>
   <file name="about-us.html" crc="105382441" seo="true" mt="1516244116408" redirect="true"/>
   <file name="instructions.html" crc="4196502381" seo="true" mt="1516242879313" redirect="true"/>
-  <file name="supreme.html" crc="4209006325" seo="true" mt="1516246589731" redirect="true"/>
-  <file name="bape.html" crc="3873975576" seo="true" mt="1516246060487" redirect="true"/>
-  <file name="other.html" crc="3876077245" seo="true" mt="1516246049322" redirect="true"/>
+  <file name="supreme.html" crc="4195548529" seo="true" mt="1516327880197" redirect="true"/>
+  <file name="bape.html" crc="350962694" seo="true" mt="1516327583718" redirect="true"/>
+  <file name="other.html" crc="523960780" seo="true" mt="1516327588318" redirect="true"/>
 </manifest>
